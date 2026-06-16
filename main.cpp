@@ -5,7 +5,7 @@ int main() {
     double nextNum;
     char op;
 
-    std::cout << "***************** Simple CALCULATOR *****************\n";
+    std::cout << "***************** SIMPLE CALCULATOR *****************\n";
     std::cout << "Enter initial number: ";
     if (!(std::cin >> total)) return 1;
 
